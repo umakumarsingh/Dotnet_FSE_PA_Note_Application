@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8yXiEdX23ZbcFo03BcaO3UkNZHDbaWNcGBRCG5IqVNIhwRbOrXJSu/5FQM+Rk7s1kBH3LQ/ZeUO+78NKZ5KGg==",
+  "success": true,
+  "projectFilePath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Functional</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>Test_GetAllNotesAndStatus</name>
+      <weight>2</weight>
+      <mandatory>True</mandatory>
+      <desc></desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Functional</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>Test_CreateNewNotes</name>
+      <weight>2</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Functional</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>Test_UpdatedNotes</name>
+      <weight>2</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Functional</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>Test_ValidateEmptyNotes</name>
+      <weight>2</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Functional</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>Test_DeleteNotesList</name>
+      <weight>2</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Boundary</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>BoundaryTestfor_ValidateNotesId</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Boundary</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>BoundaryTestfor_validateTitleEmptyString</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Boundary</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>BoundaryTestfor_validateAuthorEmptyString</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Boundary</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>BoundaryTestfor_validateStatusEmptyString</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Boundary</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>BoundaryTestfor_validateIdNotNull</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Boundary</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>BoundaryTestfor_validateAuthorNotNull</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Boundary</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>BoundaryTestfor_validateDecriptionNotNull</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Boundary</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>BoundaryTestfor_validateStatusNotNull</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
+</test-cases>

@@ -1,0 +1,15 @@
+I:\IIHT\Note App\project\JuniorFSE\NoteApplicationApi\NoteApplicationApi.Entities\bin\Debug\netstandard2.0\NoteApplicationApi.Entities.deps.json
+I:\IIHT\Note App\project\JuniorFSE\NoteApplicationApi\NoteApplicationApi.Entities\bin\Debug\netstandard2.0\NoteApplicationApi.Entities.dll
+I:\IIHT\Note App\project\JuniorFSE\NoteApplicationApi\NoteApplicationApi.Entities\bin\Debug\netstandard2.0\NoteApplicationApi.Entities.pdb
+I:\IIHT\Note App\project\JuniorFSE\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.AssemblyInfoInputs.cache
+I:\IIHT\Note App\project\JuniorFSE\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.AssemblyInfo.cs
+I:\IIHT\Note App\project\JuniorFSE\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.dll
+I:\IIHT\Note App\project\JuniorFSE\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.pdb
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationApi\NoteApplicationApi.Entities\bin\Debug\netstandard2.0\NoteApplicationApi.Entities.deps.json
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationApi\NoteApplicationApi.Entities\bin\Debug\netstandard2.0\NoteApplicationApi.Entities.dll
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationApi\NoteApplicationApi.Entities\bin\Debug\netstandard2.0\NoteApplicationApi.Entities.pdb
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.csprojAssemblyReference.cache
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.AssemblyInfoInputs.cache
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.AssemblyInfo.cs
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.dll
+I:\IIHT\Note App\JuniorFSE\Project\NoteApplicationApi\NoteApplicationApi.Entities\obj\Debug\netstandard2.0\NoteApplicationApi.Entities.pdb

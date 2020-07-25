@@ -1,0 +1,17 @@
+D:\NoteApplicationApi-master\NoteApplicationApi.Entities\bin\Debug\netcoreapp2.2\NoteApplicationApi.Entities.deps.json
+D:\NoteApplicationApi-master\NoteApplicationApi.Entities\bin\Debug\netcoreapp2.2\NoteApplicationApi.Entities.dll
+D:\NoteApplicationApi-master\NoteApplicationApi.Entities\bin\Debug\netcoreapp2.2\NoteApplicationApi.Entities.pdb
+D:\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.AssemblyInfoInputs.cache
+D:\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.AssemblyInfo.cs
+D:\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.csproj.CoreCompileInputs.cache
+D:\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.dll
+D:\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.pdb
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\bin\Debug\netcoreapp2.2\NoteApplicationApi.Entities.deps.json
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\bin\Debug\netcoreapp2.2\NoteApplicationApi.Entities.dll
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\bin\Debug\netcoreapp2.2\NoteApplicationApi.Entities.pdb
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.csprojAssemblyReference.cache
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.AssemblyInfo.cs
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.dll
+D:\IIHT\Code_Clean_Up\NoteApplicationApi-master\NoteApplicationApi.Entities\obj\Debug\netcoreapp2.2\NoteApplicationApi.Entities.pdb
