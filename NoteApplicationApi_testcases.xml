@@ -104,4 +104,12 @@
       <mandatory>True</mandatory>
       <desc>na</desc>
    </cases>
+   <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+      <test-case-type>Exception</test-case-type>
+      <expected-ouput>True</expected-ouput>
+      <name>Testfor_validateNotesNotNull</name>
+      <weight>1</weight>
+      <mandatory>True</mandatory>
+      <desc>na</desc>
+   </cases>
 </test-cases>

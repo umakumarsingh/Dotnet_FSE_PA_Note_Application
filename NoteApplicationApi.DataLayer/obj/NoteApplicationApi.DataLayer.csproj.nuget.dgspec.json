@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.DataLayer\\NoteApplicationApi.DataLayer.csproj": {}
+    "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.DataLayer\\NoteApplicationApi.DataLayer.csproj": {}
   },
   "projects": {
-    "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.DataLayer\\NoteApplicationApi.DataLayer.csproj": {
+    "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.DataLayer\\NoteApplicationApi.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.DataLayer\\NoteApplicationApi.DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.DataLayer\\NoteApplicationApi.DataLayer.csproj",
         "projectName": "NoteApplicationApi.DataLayer",
-        "projectPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.DataLayer\\NoteApplicationApi.DataLayer.csproj",
+        "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.DataLayer\\NoteApplicationApi.DataLayer.csproj",
         "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-        "outputPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj": {
-                "projectPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj"
+              "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj": {
+    "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
         "projectName": "NoteApplicationApi.Entities",
-        "projectPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
+        "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
         "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-        "outputPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\obj\\",
+        "outputPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

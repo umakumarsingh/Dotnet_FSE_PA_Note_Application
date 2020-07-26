@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
       "projectName": "NoteApplicationApi.Entities",
-      "projectPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
+      "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
       "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-      "outputPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\obj\\",
+      "outputPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

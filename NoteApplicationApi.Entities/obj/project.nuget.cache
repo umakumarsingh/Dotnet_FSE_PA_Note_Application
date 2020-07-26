@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8yXiEdX23ZbcFo03BcaO3UkNZHDbaWNcGBRCG5IqVNIhwRbOrXJSu/5FQM+Rk7s1kBH3LQ/ZeUO+78NKZ5KGg==",
+  "dgSpecHash": "FhVBqEdsdMVz8VFJPuBosRNfUoHJcbD7B07vA+c8kHSyp3jbKHDWJUjd1QSzjU4yHNfhQRNPP9NRVv3FaZlTvg==",
   "success": true,
-  "projectFilePath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
+  "projectFilePath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Entities\\NoteApplicationApi.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

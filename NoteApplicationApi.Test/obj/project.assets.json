@@ -15320,11 +15320,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Test\\NoteApplicationApi.Test.csproj",
+      "projectUniqueName": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Test\\NoteApplicationApi.Test.csproj",
       "projectName": "NoteApplicationApi.Test",
-      "projectPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Test\\NoteApplicationApi.Test.csproj",
+      "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Test\\NoteApplicationApi.Test.csproj",
       "packagesPath": "C:\\Users\\KUMARUMA\\.nuget\\packages\\",
-      "outputPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi.Test\\obj\\",
+      "outputPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15343,8 +15343,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi\\NoteApplicationApi.csproj": {
-              "projectPath": "D:\\IIHT\\Code_Clean_Up\\NoteApplicationApi-master\\NoteApplicationApi\\NoteApplicationApi.csproj"
+            "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi\\NoteApplicationApi.csproj": {
+              "projectPath": "C:\\Users\\KUMARUMA\\Documents\\GitHub\\NoteApplication_clean_code\\NoteApplicationApi\\NoteApplicationApi.csproj"
             }
           }
         }
