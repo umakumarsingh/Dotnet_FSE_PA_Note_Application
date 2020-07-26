@@ -70,7 +70,7 @@ namespace NoteApplicationApi.Test.TestCases
             }
             catch (Exception ex)
             {
-                File.AppendAllText("../../../../output_exception_revised.txt", "Testfor_validateNotesNotNull=False" + finalvalue +"\n");
+                File.AppendAllText("../../../../output_exception_revised.txt", "Testfor_validateNotesNotNull=" + finalvalue +"\n");
 
             }
             return finalvalue;

@@ -112,7 +112,7 @@ namespace NoteApplicationApi.Test.TestCases
             }
             catch (Exception ex)
             {
-                File.AppendAllText("../../../../output_boundary_revised.txt", "BoundaryTestfor_validateTitleEmptyString=False" + finalvalue + "\n");
+                File.AppendAllText("../../../../output_boundary_revised.txt", "BoundaryTestfor_validateTitleEmptyString=" + finalvalue + "\n");
 
             }
             return finalvalue;
@@ -275,7 +275,7 @@ namespace NoteApplicationApi.Test.TestCases
             }
             catch (Exception ex)
             {
-                File.AppendAllText("../../../../output_boundary_revised.txt", "BoundaryTestfor_validateAuthorNotNull=False" + finalvalue + "\n");
+                File.AppendAllText("../../../../output_boundary_revised.txt", "BoundaryTestfor_validateAuthorNotNull=" + finalvalue + "\n");
 
             }
             return finalvalue;
@@ -314,7 +314,7 @@ namespace NoteApplicationApi.Test.TestCases
             }
             catch (Exception ex)
             {
-                File.AppendAllText("../../../../output_boundary_revised.txt", "BoundaryTestfor_validateDecriptionNotNull=False"+ finalvalue + "\n");
+                File.AppendAllText("../../../../output_boundary_revised.txt", "BoundaryTestfor_validateDecriptionNotNull="+ finalvalue + "\n");
 
             }
             return finalvalue;
@@ -353,7 +353,7 @@ namespace NoteApplicationApi.Test.TestCases
             }
             catch (Exception ex)
             {
-                File.AppendAllText("../../../../output_boundary_revised.txt", "BoundaryTestfor_validateStatusNotNull=False" + finalvalue + "\n");
+                File.AppendAllText("../../../../output_boundary_revised.txt", "BoundaryTestfor_validateStatusNotNull=" + finalvalue + "\n");
 
             }
             return finalvalue;
