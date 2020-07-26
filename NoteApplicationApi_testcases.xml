@@ -6,7 +6,7 @@
       <name>Test_GetAllNotesAndStatus</name>
       <weight>2</weight>
       <mandatory>True</mandatory>
-      <desc></desc>
+      <desc>na</desc>
    </cases>
    <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
       <test-case-type>Functional</test-case-type>

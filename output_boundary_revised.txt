@@ -1,8 +1,0 @@
-BoundaryTestfor_validateStatusNotNull=True
-BoundaryTestfor_validateTitleEmptyString=True
-BoundaryTestfor_validateDecriptionNotNull=True
-BoundaryTestfor_validateIdNotNull=True
-BoundaryTestfor_validateAuthorNotNull=True
-BoundaryTestfor_validateStatusEmptyString=True
-BoundaryTestfor_ValidateNotesId=True
-BoundaryTestfor_validateAuthorEmptyString = True

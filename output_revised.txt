@@ -1,5 +1,0 @@
-Test_ValidateEmptyNotes=True
-Test_UpdatedNotes=True
-Test_DeleteNotesList=True
-Test_GetAllNotesAndStatus=True
-Test_CreateNewNotes=True
